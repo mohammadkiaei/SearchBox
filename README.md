@@ -1,2 +1,2 @@
 # SearchBox1-miniproj
-This is a search box mini project
+This is a mini searchBox project
